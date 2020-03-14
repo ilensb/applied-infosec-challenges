@@ -1,0 +1,21 @@
+{
+	"name": "infosec-challenges",
+	"version": "0.0.1",
+	"description": "backend boilerplate",
+	"main": "server.js",
+	"scripts": {
+		"start": "node myApp.js"
+	},
+	"dependencies": {
+		"express": "^4.14.0",
+    "helmet": "^3.16.0"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"keywords": [
+		"node",
+		"express"
+	],
+	"license": "MIT"
+}

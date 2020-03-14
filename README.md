@@ -1,1 +1,2 @@
-# applied-infosec-challenges
+# Applied InfoSec Challenges
+=============================================
